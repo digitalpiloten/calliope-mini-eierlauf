@@ -1,5 +1,5 @@
 
-> Diese Seite bei [https://marvinschopf.github.io/calliope-mini-eierlauf/](https://marvinschopf.github.io/calliope-mini-eierlauf/) öffnen
+> Diese Seite bei [https://digitalpiloten.github.io/calliope-mini-eierlauf/](https://marvinschopf.github.io/calliope-mini-eierlauf/) öffnen
 
 ## Als Erweiterung verwenden
 
